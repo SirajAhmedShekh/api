@@ -10,7 +10,7 @@
     {
       "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/living/1-leaving-pieces-3-seat-l.jpg?raw=true",
       "title": "L Shape Chair Sofa",
-      "description": "2 Pieces 3 Seat L Shape Couch with Ottoman and Accent Chair Sofa Set Polyester Fabric for Living Room, Green",
+      "description": "2 Pieces 3 Seat L Shape Couch with Ottoman and Accent Chair Sofa Set Polyester Fabric for Living",
       "price": 42000      
     },
     {
@@ -56,52 +56,46 @@
       "price": 65000     
     },
     {
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/living/9-leaving-set.webp",
+      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/living/9-leaving-set.webp?raw=true",
       "title": "Living room sofa set",
       "description": "Complete your living room setup with a well-chosen rug that ties the space together",
       "price": 72000      
     },
     {
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/living/9-leaving-set.webp",
+      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/living/10-leaving-rugs_blog.webp?raw=true",
       "title": "Living room sofa set",
       "description": "Complete your living room setup with a well-chosen rug that ties the space together",
       "price": 72000      
     },
     {
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/living/10-leaving-rugs_blog.webp",
+      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/living/11-leaving-Sofa-Set-Design-Modern.webp?raw=true",
       "title": "Mix of ambient sofa",
       "description": "Brighten your living room with a mix of ambient, task, and accent lighting.",
       "price": 80000      
     },
     {
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/living/11-leaving-Sofa-Set-Design-Modern.webp",
+      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/living/12-leaving-luxury-modern-sofa.jpg?raw=true",
       "title": "Chester Sofa",
       "description": "Chester Sofa Design With 04 Puffy & Round Center Table",
       "price": 40000    
     },
     {
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/living/12-leaving-luxury-modern-sofa.jpg",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/living/13-modern-living-room.avif",
       "title": "U Shaped Sofa Set",
       "description": "8 Seater Rectangular Luxury Modern U Shaped Sofa Set Design, Living Room",
       "price": 48000    
     },
     {
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/living/13-modern-living-room.avif",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/living/14-leaving-unit-with-marble.avif",
       "title": "Beige sofa set",
       "description": "Modern indian living room with beige sofa set and intricate wallpaper with terracotta wall",
       "price": 45000  
     },
     {
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/living/14-leaving-unit-with-marble.avif",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/living/15-modern-living-room.avif",
       "title": "TV furniture",
       "description": "Classic contemporary TV unit in greige and taupe tones with wall mouldings",
       "price": 60000     
-    },
-    {
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/living/15-modern-living-room.avif",
-      "title": "Sage green sofa",
-      "description": "Modern living room with sage green sofa set and curved wall panel",
-      "price": 55000      
     }
   ],
   "sofabed": [
