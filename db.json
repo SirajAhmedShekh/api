@@ -118,14 +118,14 @@
   "sofabed": [
      {
        "id":16,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Sofabed/1-Modern-Bedroom-Furniture.webp",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Sofabed/1-Modern-Bedroom-Furniture.webp",
       "title": "Luxurious Upholstered Bedroom Suite",
       "description": "Premium velvet or suede-finish fabric with high-density foam padding",
       "price":145000      
     },
     {
        "id":17,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Sofabed/2-bedroom-furniture.avif",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Sofabed/2-bedroom-furniture.avif",
       "title": "Contemporary Master Bedroom Suite",
       "description": "Modern King Size Bed with Vertical Channel-Tufted Headboard and Matching Bench.",
       "price": 125000
@@ -133,7 +133,7 @@
     },
     {
        "id":18,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Sofabed/3-luxury-bedside.webp",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Sofabed/3-luxury-bedside.webp",
       "title": "Luxurious White Geometric Bedroom Suite",
       "description": "Luxury Modern Geometric Upholstered King Size Bed with Gold Trim.",
       "price": 185000
@@ -141,7 +141,7 @@
     },
     {
        "id":19,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Sofabed/4-bedroom-set.webp",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Sofabed/4-bedroom-set.webp",
       "title": "Luxurious White Geometric Suite",
       "description": "Luxury Modern Geometric Upholstered King Size Bed with Gold Metallic Trim.",
       "price": 125000
@@ -149,7 +149,7 @@
     },
     {
        "id":20,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Sofabed/5-bedroom-set.png",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Sofabed/5-bedroom-set.png",
       "title": "Modern Earth-Tone Bedroom Suite",
       "description": "Contemporary Master Suite with Rust Velvet King Bed and Geometric Gold Wall Art.",
       "price": 165000
@@ -157,7 +157,7 @@
     },
     {
        "id":21,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Sofabed/6-sofabed-set.jpg",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Sofabed/6-sofabed-set.jpg",
       "title": "Luxurious White Suite",
       "description": "Luxury Modern Geometric Upholstered King Size Bed with Gold Metallic Trim.",
       "price": 135000
@@ -165,7 +165,7 @@
     },
     {
        "id":22,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Sofabed/7-Modern-Luxury-Bedroom-Design.jpg",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Sofabed/7-Modern-Luxury-Bedroom-Design.jpg",
       "title": "Master Suite with Vertical Channel Tufting",
       "description": "Modern Vertical Channel-Tufted King Size Bed with Matching Upholstered Bench.",
       "price": 110500
@@ -173,7 +173,7 @@
     },
     {
        "id":23,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Sofabed/8-romantic-bedroom.jpg",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Sofabed/8-romantic-bedroom.jpg",
       "title": "Modern Royal & Cream Master Suite",
       "description": "Modern Purple Velvet Paneled King Bed with Cream Tufted Bench.",
       "price": 115000
@@ -181,7 +181,7 @@
     },
     {
        "id":24,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Sofabed/9-bedset-luxury-set.webp",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Sofabed/9-bedset-luxury-set.webp",
       "title": "Luxurious White Geometric Bedroom Suite",
       "description": "Ornate Hand-Carved Royal Teak Wood Bedroom Suite in Ivory and Gold Leaf.",
       "price": 225000
@@ -189,7 +189,7 @@
     },
     {
        "id":25,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Sofabed/10-luxury-bedroom-set.jpg",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Sofabed/10-luxury-bedroom-set.jpg",
       "title": "Luxurious White Geometric Bedroom Suite",
       "description": "Luxury Modern Geometric Upholstered King Size Bed with Gold Metallic Trim.",
       "price": 185000
@@ -197,7 +197,7 @@
     },
     {
        "id":26,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Sofabed/11-sofa-bed.webp",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Sofabed/11-sofa-bed.webp",
       "title": "Premium Quality Sofa",
       "description": "Luxo Nation Luxury Sofa Bed Modern Design & Premium Quality Sofa",
       "price": 123000
@@ -205,7 +205,7 @@
     },
     {
        "id":27,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Sofabed/12-sofabed-Bedroom.jpg",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Sofabed/12-sofabed-Bedroom.jpg",
       "title": "Modern Charm sofa",
       "description": "Contemporary Bedrooms with Mid-Century Modern Charm: A Perfect Fusion of Style",
       "price": 215000
@@ -213,7 +213,7 @@
     },
     {
        "id":28,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Sofabed/13-sofabed-large-bedroom.jpg",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Sofabed/13-sofabed-large-bedroom.jpg",
       "title": "Mid-Century sofa",
       "description": "Color Palettes in Mid-Century Bedroom Designs",
       "price": 205000
@@ -221,7 +221,7 @@
     },
     {
        "id":29,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Sofabed/14-sofabed-luxury.jpg",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Sofabed/14-sofabed-luxury.jpg",
       "title": "Open Concept Bedroom sofa",
       "description": "Serene-Open-Concept-Bedroom-with-Mid-Century-Minimalism",
       "price": 145000
@@ -229,7 +229,7 @@
     },
     {
        "id":30,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Sofabed/15-sofabed-luxury.webp",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Sofabed/15-sofabed-luxury.webp",
       "title": " Double Size sofa",
       "description": "Wooden Platform Sofa Bed, Double Size, Contemporary Style",
       "price": 132000
@@ -239,7 +239,7 @@
   "dining": [
       {
          "id":31,
-        "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/1-%20dining-table.jpg",
+        "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/1-%20dining-table.jpg",
         "title": "Wooden dining table set",
         "description": "Italian 6-Seater Modern Wooden Dining Table Set",
         "price": 132000
@@ -247,15 +247,15 @@
       },
       {
          "id":32,
-        "img":"https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/2-luxury-glass-dining.avif",
-        "title": "8-Seater designer dining table",
+         "img":"https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/2-luxury-glass-dining.avif",
+         "title": "8-Seater designer dining table",
         "description": "8-seater designer dining table and bevelled wall mirror",
         "price": 122000
         
       },
       {
          "id":33,
-        "img":"https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/3-modern-dining-area-with-wooden-accents.avif",
+        "img":"https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/3-modern-dining-area-with-wooden-accents.avif",
         "title": "Round wooden dining table",
         "description": "Boho dining room with round wooden dining table and mint green crockery unit",
         "price": 111000
@@ -263,7 +263,7 @@
       },
       {
          "id":34,
-        "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/4-luxury-dining-setup-with-elegant-chairs.avif",
+        "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/4-luxury-dining-setup-with-elegant-chairs.avif",
         "title": "Marble dining table set",
         "description": "6-Seater dining room with marble dining table and wooden flooring",
         "price": 125000
@@ -271,7 +271,7 @@
       },
       {
          "id":35,
-        "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/5-modern-luxury-dining-room-decor.avif",
+        "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/5-modern-luxury-dining-room-decor.avif",
         "title": "Dining chairs and fluted wall",
         "description": "Dining room with earthy dining chairs and fluted wall",
         "price": 122000
@@ -279,7 +279,7 @@
       },
       {
          "id":36,
-        "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/6-elegant-dining-space-with-modern-decor.avif",
+        "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/6-elegant-dining-space-with-modern-decor.avif",
         "title": "Black dining table and grey plush chairs",
         "description": "Modern dining room with black marble dining table and grey plush chairs",
         "price": 118000
@@ -287,7 +287,7 @@
       },
       {
          "id":37,
-        "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/7-contemporary-dining-space-with-minimalist-touch.avif",
+        "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/7-contemporary-dining-space-with-minimalist-touch.avif",
         "title": "Marble dining table",
         "description": "Modern dining room with marble dining table white and green chairs",
         "price": 127000
@@ -295,7 +295,7 @@
       },
       {
          "id":38,
-        "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/8-modern-dining-area-with-checkered-chairs.avif",
+        "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/8-modern-dining-area-with-checkered-chairs.avif",
         "title": "Dining table top and checkered chairs",
         "description": "Modern 4-seater dining room with marble dining table top and checkered chairs",
         "price": 113000
@@ -303,7 +303,7 @@
       },
       {
          "id":39,
-        "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/9-elegant-teak-wood-dining-room.avif",
+        "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/9-elegant-teak-wood-dining-room.avif",
         "title": "Wooden furniture and cane sideboard",
         "description": "Boho chic dining room with wooden furniture and cane sideboard",
         "price": 124000
@@ -311,7 +311,7 @@
       },
       {
          "id":40,
-        "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/10-elegant-dining-table-arrangement.avif",
+        "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/10-elegant-dining-table-arrangement.avif",
         "title": "8-Seater dining room with cream chairs",
         "description": "Mid-century modern 8-seater dining room with cream chairs",
         "price": 132000
@@ -319,7 +319,7 @@
       },
       {
         "id":41,
-        "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/11-luxury-dining-room-with-wooden-accents.avif",
+        "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/11-luxury-dining-room-with-wooden-accents.avif",
         "title": "Dining room with dual tone chairs",
         "description": "Indian 6-seater dining room with dual tone chairs and open shelves",
         "price": 126000
@@ -327,14 +327,14 @@
       },
       {
         "id":42,
-        "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/12-modern-glass-dining-setup-with-chic-decor.avif",
+        "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/12-modern-glass-dining-setup-with-chic-decor.avif",
         "title": "Dining room with chairs",
         "description": "Modern minimal dining room with chairs with metal frame and arch walls",
         "price":115500        
       },
       {
         "id":43,
-        "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/13-elegant-luxury-dining-room-design.avif",
+        "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/13-elegant-luxury-dining-room-design.avif",
         "title": "Oval wooden table and black chairs",
         "description": "Modern contemporary dining room with oval wooden table and black chairs",
         "price": 142000
@@ -342,7 +342,7 @@
       },
       {
         "id":44,
-        "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/14-modern-wooden-dining-room-setup.avif",
+        "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/14-modern-wooden-dining-room-setup.avif",
         "title": " Dining room with wooden dining table",
         "description": "Transitional dining room with wooden dining table and victorian style crockery unit",
         "price": 133500
@@ -350,7 +350,7 @@
       },
       {
         "id":45,
-        "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/15-luxury-rectangular-dining-setup.avif",
+        "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/15-luxury-rectangular-dining-setup.avif",
         "title": "Indian modern 6-seater dining Table",
         "description": "Indian modern 6-seater dining room with mustard chairs and patterned",
         "price": 136500
@@ -358,7 +358,7 @@
       },
       {
         "id":46,
-        "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/Dining/16-modern-luxury-dining-room-design.avif",
+        "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/Dining/16-modern-luxury-dining-room-design.avif",
         "title": "Marble dining table and wall mirror",
         "description": "Modern minimal dining room with marble dining table and wall mirror paneling",
         "price": 128500
@@ -368,105 +368,105 @@
   "office": [
     {
       "id":47,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/office/1-office-chair.webp",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/office/1-office-chair.webp",
       "title": "High Back Chair",
       "description": "Moon Luxury High Back Chair",
       "price": 15840     
     },
     {
       "id":48,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/office/2-office-chair-gray.jpg",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/office/2-office-chair-gray.jpg",
       "title": "Ergonomic Office Chair",
       "description": "Jupiter Superb High Back Evolutionary Ergonomic Office Chair (Grey)",
       "price": 14500      
     },
     {
       "id":49,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/office/3-%20office-chair.webp",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/office/3-%20office-chair.webp",
       "title": "Office Chair With Aluminum Base - Blue",
       "description": "Emilia Modern Upholstered Adjustable Office Chair With Aluminum Base - Blue",
       "price": 15500      
     },
     {
       "id":50,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/office/4-office-chair.webp",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/office/4-office-chair.webp",
       "title": "Luxuri Office Chair Kave",
       "description": "Office Chair Kave Home Madai",
       "price": 15900      
     },
     {
       "id":51,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/office/5-office-chairConfident_HB.webp",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/office/5-office-chairConfident_HB.webp",
       "title": "Mesh Office Chair",
       "description": "Confidant High Back Mesh Office Chair",
       "price": 15400      
     },
     {
       "id":52,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/office/6-office-chairtransform-prime.webp",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/office/6-office-chairtransform-prime.webp",
       "title": "Prime High Back chair",
       "description": "Transform Prime High Back Mesh Office Chair",
       "price": 16500      
     },
     {
       "id":53,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/office/7-classic-highback-office-chair.webp",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/office/7-classic-highback-office-chair.webp",
       "title": "Transform Classic High Back chair",
       "description": "Transform Classic High Back Mesh Office Chair",
       "price": 15300      
     },
     {
       "id":54,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/office/8-midback-office-chair.webp",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/office/8-midback-office-chair.webp",
       "title": "Mid back mesh office chair",
       "description": "Empower Mid Back Mesh Office Chair",
       "price": 14700      
     },
     {
       "id":55,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/office/9-Gavisco-product-office-chair.webp",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/office/9-Gavisco-product-office-chair.webp",
       "title": "U-Sit mid back office chair",
       "description": "U-Sit Mid Back Minimalist Staff Office Chair",
       "price": 14600      
     },
     {
       "id":56,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/office/10-orange-office-chair%20(1).jpg",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/office/10-orange-office-chair%20(1).jpg",
       "title": "Professional Orange Executive Desk Chair",
       "description": " Orange Executive Office Chair Adjustable Leather Mid Back Swivel Office Desk Chair",
       "price": 16800      
     },
     {
       "id":57,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/office/11-office-chair.jpg",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/office/11-office-chair.jpg",
       "title": "Bezus Ergonomic High office chair",
       "description": "Bezus Ergonomic High Back Mesh Office Chair (Grey)",
       "price": 14500     
     },
     {
       "id":58,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/office/12-office-chair-modern.jpg",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/office/12-office-chair-modern.jpg",
       "title": "Leather office chair in modern workspace",
       "description": "Luxury leather office chair in modern workspace Pro",
       "price": 16900      
     },
     {
       "id":59,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/office/13-black-leather-office-chair.jpg",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/office/13-black-leather-office-chair.jpg",
       "title": "Black-leather-office-chair",
       "description": "black-leather-office-chair-in-modern-business-setting",
       "price": 14300      
     },
     {
       "id":60,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/office/14-office-chair.jpg",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/office/14-office-chair.jpg",
       "title": "Sleek desk and ergonomic chair",
       "description": "Modern office interior featuring sleek desk and ergonomic chair",
       "price": 16700      
     },
     {
       "id":61,
-      "img": "https://github.com/SirajAhmedShekh/My-Project/blob/main/Utils/office/15-posture-chair.webp",
+      "img": "https://raw.githubusercontent.com/SirajAhmedShekh/My-Project/refs/heads/main/Utils/office/15-posture-chair.webp",
       "title": "Luxurious office chair",
       "description": "Luxurious Lobby with Contemporary Furnishings and Lush Greenery",
       "price": 17800      
